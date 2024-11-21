@@ -1,0 +1,2 @@
+# GenAI
+LLM sample projects
